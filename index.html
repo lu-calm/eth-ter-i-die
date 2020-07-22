@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+
+<h1>Eth-ter-I-Die</h1>
+<p>Placeholder for instructions on how to use go here</p>
+
+<h2>Select Wallets</h2>
+<form>
+  <input type="checkbox" id="W1" name="W1" value="Ledger">
+  <label for="W1"> Ledger</label><br>
+  <input type="checkbox" id="W2" name="W2" value="MetaMask">
+  <label for="W2"> MetaMask</label><br>
+</form>
+<h2>Select Exchanges</h2>
+<form>
+  <input type="checkbox" id="E1" name="E1" value="OpenSea">
+  <label for="E1"> OpenSea</label><br>
+  <input type="checkbox" id="E2" name="E2" value="UniSwap">
+  <label for="E2"> UniSwap</label><br>
+</form>
+<h2>Select Dapps</h2>
+<form>
+  <input type="checkbox" id="D1" name="D1" value="Compound">
+  <label for="D1"> Compound</label><br>
+  <input type="checkbox" id="D2" name="D2" value="MakerDao">
+  <label for="D2"> MakerDao</label><br>
+</form>
+<h2>Select Games</h2>
+<form>
+  <input type="checkbox" id="G1" name="G1" value="CryptoKitties">
+  <label for="G1"> CryptoKitties</label><br>
+  </form>
+<h2>Select Off-Ramp</h2>
+<form>
+  <input type="checkbox" id="O1" name="O1" value="CoinBase">
+  <label for="O1"> CoinBase</label><br>
+  <input type="checkbox" id="O2" name="O2" value="Uphold">
+  <label for="O2"> Uphold</label><br>
+</form>
+
+<br>
+
+<br>
+<script>
+var Intro;
+var MMData;
+
+fetch('/intro.txt')
+  .then(response => response.text())
+  .then((data) => {
+    Intro = data;
+  })
+
+  fetch('/metamask.txt')
+    .then(response => response.text())
+    .then((data) => {
+      MMData = data;
+    })
+
+
+
+function Gather(){
+var End = "End text here "
+var SW1 = document.getElementById("W1").checked ? "Ledger Info here " : "";
+var SW2 = document.getElementById("W2").checked ? MMData : "";
+var SE1 = document.getElementById("E1").checked ? "OpenSea Info here " : "";
+var SE2 = document.getElementById("E2").checked ? "UniSwap Info here " : "";
+var SD1 = document.getElementById("D1").checked ? "Compound Info here " : "";
+var SD2 = document.getElementById("D2").checked ? "MakerDao Info here " : "";
+var SG1 = document.getElementById("G1").checked ? "CryptoKitties Info here " : "";
+var SO1 = document.getElementById("O1").checked ? "CoinBase Info here " : "";
+var SO2 = document.getElementById("O2").checked ? "Uphold Info here " : "";
+
+
+var FileSumm = Intro + SW1 + SW2 + SE1 + SE2 + SD1 + SD2 + SG1 + SO1 +SO2 + End;
+return FileSumm;
+}
+
+    function download_file(name, contents, mime_type) {
+        mime_type = mime_type || "text/plain";
+
+        var blob = new Blob([contents], {type: mime_type});
+
+        var dlink = document.createElement('a');
+        dlink.download = name;
+        dlink.href = window.URL.createObjectURL(blob);
+        dlink.onclick = function(e) {
+            // revokeObjectURL needs a delay to work properly
+            var that = this;
+            setTimeout(function() {
+                window.URL.revokeObjectURL(that.href);
+            }, 1500);
+        };
+
+        dlink.click();
+        dlink.remove();
+    }
+</script>
+
+<button onclick='download_file("Ether-I-Die.txt", Gather())'>Download File</button>
+
+</body>
+</html>
