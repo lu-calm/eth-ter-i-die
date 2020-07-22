@@ -8,9 +8,9 @@
 
 <h2>Select Wallets</h2>
 <form>
-  <input type="checkbox" id="001" name="dapp" onchange='getSelectedCheckboxValues()' value='/ledger.txt'>
+  <input type="checkbox" id="001" name="dapp" onchange='getSelectedCheckboxValues()' value='/DappData/ledger.txt'>
   <label for="001"> Ledger</label><br>
-  <input type="checkbox" id="002" name="dapp" onchange='getSelectedCheckboxValues()' value='/metamask.txt'>
+  <input type="checkbox" id="002" name="dapp" onchange='getSelectedCheckboxValues()' value='/DappData/metamask.txt'>
   <label for="002"> MetaMask</label><br>
 </form>
 <h2>Select Exchanges</h2>
@@ -29,13 +29,13 @@
 var Intro, DappsSumm, End, FetchAddress, FileSumm;
 //var totalDapps = document.querySelectorAll('input[type="checkbox"]:checked').length + document.querySelectorAll('input[type="checkbox"]:unchecked').length;
 
-fetch('/intro.txt')
+fetch('/SetData/intro.txt')
   .then(response => response.text())
   .then((data) => {
     Intro = data;
   })
 
-  fetch('/end.txt')
+  fetch('/SetData/end.txt')
     .then(response => response.text())
     .then((data) => {
       End = data;
