@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: lu-calm.github.io
-Token: 2d7eb3ff66a54878682e7b614a2925ae2bf8f314bb32abf7799177a8e6d9ceda
