@@ -9,8 +9,7 @@ class TextFiles extends Component {
 
       <div>
         <h2>Text Files</h2>
-        <p>Mauris sem velit, vehicula eget sodales vitae,
-        rhoncus eget sapien:</p>
+        <p>Use the table below to view the text files of the DApp or service you wish to use.</p>
 
         <SearchTable />
 

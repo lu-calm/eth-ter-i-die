@@ -117,7 +117,6 @@ const SearchTable= () => (
   {
     props => (
       <div>
-        <h3>Input something at below input field:</h3>
         <SearchBar { ...props.searchProps } />
         <ClearSearchButton { ...props.searchProps } />
         <hr />
