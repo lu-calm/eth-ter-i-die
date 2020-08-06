@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.e214a1e2.chunk.css",
-    "main.js": "/static/js/main.6d6ffad2.chunk.js",
-    "main.js.map": "/static/js/main.6d6ffad2.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.5833b0b3.js",
-    "runtime-main.js.map": "/static/js/runtime-main.5833b0b3.js.map",
-    "static/css/2.7ef9b196.chunk.css": "/static/css/2.7ef9b196.chunk.css",
-    "static/js/2.c7a134ee.chunk.js": "/static/js/2.c7a134ee.chunk.js",
-    "static/js/2.c7a134ee.chunk.js.map": "/static/js/2.c7a134ee.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.22ea84c5826c31ecbeca12d245be9b45.js": "/precache-manifest.22ea84c5826c31ecbeca12d245be9b45.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.7ef9b196.chunk.css.map": "/static/css/2.7ef9b196.chunk.css.map",
-    "static/css/main.e214a1e2.chunk.css.map": "/static/css/main.e214a1e2.chunk.css.map",
-    "static/js/2.c7a134ee.chunk.js.LICENSE.txt": "/static/js/2.c7a134ee.chunk.js.LICENSE.txt"
+    "main.css": "/eth-ter-i-die/static/css/main.e214a1e2.chunk.css",
+    "main.js": "/eth-ter-i-die/static/js/main.dcd4b58f.chunk.js",
+    "main.js.map": "/eth-ter-i-die/static/js/main.dcd4b58f.chunk.js.map",
+    "runtime-main.js": "/eth-ter-i-die/static/js/runtime-main.95ab4904.js",
+    "runtime-main.js.map": "/eth-ter-i-die/static/js/runtime-main.95ab4904.js.map",
+    "static/css/2.7ef9b196.chunk.css": "/eth-ter-i-die/static/css/2.7ef9b196.chunk.css",
+    "static/js/2.c7a134ee.chunk.js": "/eth-ter-i-die/static/js/2.c7a134ee.chunk.js",
+    "static/js/2.c7a134ee.chunk.js.map": "/eth-ter-i-die/static/js/2.c7a134ee.chunk.js.map",
+    "index.html": "/eth-ter-i-die/index.html",
+    "precache-manifest.80ff7e661462c55728f52e2128638aef.js": "/eth-ter-i-die/precache-manifest.80ff7e661462c55728f52e2128638aef.js",
+    "service-worker.js": "/eth-ter-i-die/service-worker.js",
+    "static/css/2.7ef9b196.chunk.css.map": "/eth-ter-i-die/static/css/2.7ef9b196.chunk.css.map",
+    "static/css/main.e214a1e2.chunk.css.map": "/eth-ter-i-die/static/css/main.e214a1e2.chunk.css.map",
+    "static/js/2.c7a134ee.chunk.js.LICENSE.txt": "/eth-ter-i-die/static/js/2.c7a134ee.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5833b0b3.js",
+    "static/js/runtime-main.95ab4904.js",
     "static/css/2.7ef9b196.chunk.css",
     "static/js/2.c7a134ee.chunk.js",
     "static/css/main.e214a1e2.chunk.css",
-    "static/js/main.6d6ffad2.chunk.js"
+    "static/js/main.dcd4b58f.chunk.js"
   ]
 }
