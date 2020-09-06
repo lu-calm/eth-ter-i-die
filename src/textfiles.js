@@ -8,7 +8,7 @@ class TextFiles extends Component {
     return (
 
       <div>
-        <h2>Text Files</h2>
+        <h2>The Files</h2>
         <p>Use the table below to view the text files of the DApp or service you wish to use.</p>
 
         <SearchTable />

@@ -38,20 +38,23 @@ function MyVerticallyCenteredModal(props) {
     >
       <Modal.Header closeButton>
         <Modal.Title id="contained-modal-title-vcenter">
-          Modal heading
+          Disclaimer
         </Modal.Title>
       </Modal.Header>
       <Modal.Body>
-        <h4>Centered Modal</h4>
-        <p>
-          Cras mattis consectetur purus sit amet fermentum. Cras justo odio,
-          dapibus ac facilisis in, egestas eget quam. Morbi leo risus, porta ac
-          consectetur ac, vestibulum at eros.
+          <p class="text-break">
+By confirming this .txt file download you are agreeing that Eth-ter-I-Die and associated parties are not liable for any loss of Ether or Ethereum tokens/ assets that may occur during this process.
+  </p>
+  <p class="text-break">
+This is a literal “How to Guide” of removing your Ethereum assets.
+</p>
+<p class="text-break">
+Do Not save any seed phrase digitally and keep the completed document in a safe place.
         </p>
 
       </Modal.Body>
       <Modal.Footer>
-      <Button variant="primary" type="submit" onClick={() => { download_FS("Ether-I-Die.txt", gather()) }}>Agree and Download</Button>
+      <Button variant="primary" type="submit" onClick={() => { download_FS("Eth-ter-I-Die.txt", gather()) }}>Agree and Download</Button>
         <Button variant="secondary" onClick={props.onHide}>Close</Button>
       </Modal.Footer>
     </Modal>

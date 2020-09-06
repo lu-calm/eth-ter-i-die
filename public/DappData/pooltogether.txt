@@ -1,0 +1,104 @@
+------------------------------------------------------------------------------------------
+-= Service Name: PoolTogether =-
+-= Service Type: DApp or Service =-
+
+-= This information was updated and correct as of: 31/08/2020 =-
+
+-= Note: This section accesses my Wallet and guides on the removal of Assets
+Please follow the instructions carefully =-
+
+PoolTogether is a DApp that is essentially a loss-less lottery. After purchasing tickets
+with Ethereum Assets the ticket is placed in a lottery draw every week. If ticket
+matches the draw ticket then the jackpot is own. Win or lose the ticket remains in
+next draw until the ticket is cashed out by the purchaser for the same value that
+it was bought for.
+
+
+The aim of this section is to remove the Assets I have in PoolTogether and return them
+to the Wallet and Dapp Gateway.
+
+Within this section of the document we will cover the following topics.
+
+-= Connect to PoolTogether =-
+-= Remove "Tickets" from PoolTogether =-
+
+These may be referenced in other sections from other services in this document.
+These topics may not be conducted in order and may need to be conducted multiple times
+throughout this document.
+
+-= Connect to PoolTogether =-
+
+In your internet browser search/ address bar type: "pooltogether.com".
+
+Press Enter to access the website.
+
+Click "App" in the top right corner.
+
+Click "Connect Wallet" in the top right corner.
+
+Once clicked, click on the Wallet and DApp Gateway being used.
+
+A new screen will pop-up asking for permission for the website to interact with the
+Wallet and DApp Gateway.
+
+Select account with my Ethereum Address.
+
+Click Connect.
+
+If successful, the page will reload and in the top right hand corner there will be a
+shortened version of my Address and the name of the Wallet and DApp Gateway being used
+under it. Below this there is the amount of "Tickets" I own.
+
+-= Remove "Tickets" from PoolTogether =-
+
+Click on the the "You have "X" Tickets" displayed in the top right corner.
+
+The page will reload with Different pool options.
+
+The ones that you are interested in are the ones with "Tickets" in them.
+
+You will need to do the following process for each "Ticket option" with "Tickets"
+in them.
+
+Chose a "Ticket option" with "Tickets" in them.
+
+Click "View" on the righter most column of the "Ticket Option".
+
+An in page element will load in the centre of the webpage.
+
+Click "Withdraw" on the bottom left of this element.
+
+This will load a new element where you can input the amount of tickets that you want
+to remove.
+
+Click on the "Max" text above and to the right of the text input field
+
+All the "Tickets" I had associated with this "Ticket option" will now be in the text
+input field.
+
+There will be a new element that loads asking if you are sure. Click the  "Yes, withdraw"
+button on the bottom right of the element.
+A new pop-up will be on the screen with the title "Confirm Transaction".
+
+You need to Confirm the transaction with the Wallet and DApp Gateway. As the Wallet
+and DApp Gateway was connected previously another pop-up of the Wallet and DApp Gateway
+will appear on the screen.
+
+Click Confirm on the new Wallet and DApp Gateway pop-up.
+
+The Transaction will be submitted to withdraw the Asset and it now needs to be
+approved by the Ethereum Blockchain. Approval can take seconds, minutes, hours or days
+depending on how many Transactions globally are awaiting approval.
+
+The  Wallet and Dapp Gateway will give confirmation when the Transaction has
+been approved.
+
+If the Transaction is rejected try the above steps again.
+
+Once approved the Asset initially traded for the "Tickets" will now have been
+successfully transferred the connected Wallet and DApp Gateway.
+
+Repeat the above steps for each of the "Ticket options" with "Tickets" in them.
+
+End of PoolTogether section.
+------------------------------------------------------------------------------------------

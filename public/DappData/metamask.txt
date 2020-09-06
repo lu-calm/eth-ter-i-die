@@ -1,3 +1,205 @@
-this is metamask information
+------------------------------------------------------------------------------------------
+-= Service Name: MetaMask =-
+-= Service Type: Wallet and Dapp Gateway =-
 
-lets celebrate if this works!!!
+-= This information was updated and correct as of: 19/08/2020 =-
+
+-= Note: This section accesses my Wallet and guides on the removal of Ether and Assets
+Please follow the instructions carefully =-
+
+MetaMask is an internet browser extension and can be referred as a “Wallet and Dapp
+Gateway” as you can use MetaMask like a Wallet, storing Ether and Assets but also used
+it to interact with Decentralised Applications (DApps).
+
+Within this section of the document we will cover the following topics.
+-= Download MetaMask =-
+-= Access My Ethereum Wallet =-
+-= Interact with DApps =-
+-= Send Ether to Off-Ramp =-
+
+These may be referenced in other sections from other services in this document.
+These topics may not be conducted in order and may need to be conducted multiple times
+throughout this document.
+
+-= Download MetaMask =-
+
+In your internet browser search/ address bar type: “metamask.io”
+
+Press Enter to access the website.
+
+Click on the “Download” button on the webpage.
+
+Select the browser you are using as suggested in the Introduction text
+in the -= Tips and Advice =-section.
+
+Click “Install MetaMask for “browser name””.
+
+You will be redirected to your browser extension store.
+
+Click the “add to “Browser Name”” button.
+
+On the pop-up click “Add extension”.
+
+The browser extension will be downloaded.
+
+Once downloaded, the extension will be visible on the top right of your browser and can
+be accessed by clicking the icon of the fox.
+
+-= Access My Ethereum Wallet =-
+
+You will be using MetaMask to access My Wallet and use My Ethereum Address to interact
+with DApps and send Ether to your Off-Ramp.
+
+First, we need to import My Wallet.
+
+We do this by using my Seed Phrase. A Seed Phrase is a collection of 12 words that give
+you the authorisation to access a Wallet and its contents. It is vital that you keep this
+Seed Phrase safe and secure.
+
+DO NOT share my Seed Phrase with anyone.
+
+The Seed Phrase will need to be typed correctly and in the correct order for it to work.
+Each line is a new word, 12 words in total.
+
+My Seed Phase:
+
+_____________
+
+_____________
+
+_____________
+
+_____________
+
+_____________
+
+_____________
+
+_____________
+
+_____________
+
+_____________
+
+_____________
+
+_____________
+
+_____________
+
+
+You will use this Seed Phrase to access My Wallet and its contents.
+
+Click on the MetaMask icon (the fox) on the top right of your web browser.
+
+This will open a new page, welcoming you to MetaMask.
+
+Press the “Get Started” button.
+
+This will bring you to a page asking if you are new to MetaMask.
+
+While you may be new to MetaMask, my Wallet is not new and you have access to my 12 word
+Seed Phrase.
+
+Therefore, click “Import Wallet”.
+
+Press “I agree” on the following page.
+
+The new page title should be “Import an account with seed phrase”.
+
+Click the “show seed phrase” option, this will allow you to see the words you type to
+make it easier to check.
+
+Carefully enter “My Seed Phrase” as identified previously, into the box labelled
+“Seed phrase”. Once a word has been written press “Enter” on your keyboard to add in the
+next word. This allows for each word to be entered on a new line in the text form.
+Be careful not to add any spaces.
+
+Once complete check the Seed Phrase carefully with what I have written.
+
+Create a password. This is a new password to be used by you. You may be asked for this
+password as you use MetaMask. Make sure you keep this new password safe and secure but
+make sure you can remember it.
+
+Note: If you do forget the password you can go through this -=Access My Ethereum Wallet=-
+section again from the part where you import the wallet.
+
+Click the “I have read and agree to the Terms of Use” when you are satisfied.
+
+Click “Import”.
+
+You now have access to the contents of my Address and Wallet.
+
+-= Interact with DApps =-
+
+This section provides rough details on how to interact with DApps using MetaMask.
+Specific guidance will be provided on the particular DApps as you go through the guide.
+
+With MetaMask you are the able to interact with DApps through your web browser.
+
+In order to interact with it you will be required to “Connect” the MetaMask Wallet.
+
+While the exact method of connection may differ from DApp to DApp the process should
+be similar.
+
+On the DApp there will be a “Connect Wallet” button or similar.
+
+Click on this.
+
+MetaMask will display on a portion of your webpage.
+
+Accept the connection.
+
+The MetaMask Wallet is now able to interact with the DApp.
+
+-= Send Ether to Off-Ramp =-
+
+Note: This section of the document should only be done once all previous sections of
+the whole document have been completed (apart from the -=Transfer from Ether to
+Local Currency=-  section in your Off-ramp.)
+
+After you have successfully completed the rest of the document it is now time to sent
+my Ether to your Off-Ramp.
+
+For this to take place you need to have access to Your Ethereum Wallet Address. Open
+up your Off-Ramp account and go to the location where you are able to copy Your Ethereum
+Wallet Address.
+
+Open MetaMask by clicking on the MetaMask icon (the fox) on the top right of your
+web browser.
+
+This will open MetaMask into a portion of your browser screen.
+
+Click on the menu icon on the top-left corner.
+
+Click on the “Ethereum”, Identified with the Ethereum Logo and with the amount of ETH
+in the Wallet.
+
+Click on “Send”.
+
+In the “To” field right click and paste your Off-Ramp Ethereum Wallet Address.
+
+As this will be the last transaction this Wallet will be doing, in the “Amount”
+field click “Max”.
+
+The Transaction Fee will be automatically calculated and deducted from the amount to
+be sent. There is no need to change anything in that field.
+
+Click “Next”.
+
+There will be a summary screen that will confirm the request.
+
+Click “Send”.
+
+The Transaction will now take place, this may take minutes, hours, or even days depending
+on how busy the Ethereum network is and the Network Fee that was paid.
+
+There will be a transaction confirmation notice on MetaMask once the transaction has
+been successful.
+
+If the Transaction was unsuccessful, repeat this section.
+
+Once successful all my Ether will now be in your Off-Ramp Ethereum Wallet.
+
+End of MetaMask section
+------------------------------------------------------------------------------------------

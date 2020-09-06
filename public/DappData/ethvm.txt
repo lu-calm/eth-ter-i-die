@@ -1,0 +1,76 @@
+------------------------------------------------------------------------------------------
+-= Service Name: EthVM =-
+-= Service Type: Blockchain Explorer =-
+
+-= This information was updated and correct as of: 31/08/2020 =-
+
+-= Note: This section is to inform, no assets will be transferred during this section. =-
+
+EthVM is a "Blockchain Explorer" as you can use EthVM explore the contents
+of the Ethereum Blockchain.
+
+Within this section of the document we will cover the following topics.
+
+-= My Ethereum Address =-
+-= Using the Blockchain Explorer =-
+
+These may be referenced in other sections from other services in this document.
+These topics may not be conducted in order and may need to be conducted multiple times
+throughout this document.
+
+-= My Ethereum Address =-
+
+My Ethereum Address is made of numbers, lower case letters and upper case letters,
+there will be no spaces or special characters within it. My Ethereum Address is
+publicly known information and, like a postal address, is required in order
+to receive Assets.
+
+My Ethereum Address:
+
+___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___
+
+___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___
+
+-= Using the Blockchain Explorer =-
+
+We will now use My Ethereum Address to view the Ether and Ethereum based assets in my
+address using EthVM.
+
+In your browsers search/ address bar type:
+
+https://www.ethvm.com/address/"My Ethereum Address"
+
+Put My Ethereum Address, that I have identified previously, into the website URL.
+
+Do not include the quotation marks or any spaces.
+
+Once completed, press Enter on the keyboard to access the website.
+
+EthVM should load up with My Ethereum Address details.
+
+Take note of the "Address section"
+
+The "ETH Balance" refers to how much Ether is in my Address.
+
+The "USD Value" refers to how much that Ether is worth in US Dollars.
+
+The "Total ERC20" refers to how many different Asset types I have in my Address.
+------------------------------------------------------------------------------------------
+Next we will looking the section below the "Address" section. By Default
+"Transaction History" is highlighted.
+
+Click "ERC20 Tokens"
+
+Once loaded this will display a list of Assets I have associated with this Account as
+well as the current worth in US Dollars on how much Ethereum based Assets are
+associated with my Address.
+
+Note: Not all "ERC20 Tokens" displayed will be removed from my address during
+the instructions in this document as some are considered SPAM Tokens
+(like SPAM emails, interacting with them may cause losses.)
+
+The aim of this document is to retrieve as much of the financial worth displayed in
+the "Address" section to your bank account.
+
+End of EthVM section.
+------------------------------------------------------------------------------------------

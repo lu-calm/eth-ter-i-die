@@ -1,5 +1,149 @@
 ------------------------------------------------------------------------------------------
-Keep text between the dashes above
+                    Cryptocurrency (Ethereum) Asset Retrival Document
+
+                       Keep document contents private and secure.
 
 
-This is the intro text. please print :)
+
+
+Date ___/____/_____
+
+
+Dear _______________,
+
+
+
+
+This document will explain how you will be able to access my Cryptocurrency Assets 
+based on the Ethereum Blockchain.
+
+There may be a lot of new words and concepts that will be introduced to you. Words
+with high importance of understanding have been capitalised throughout this document.
+These words can be referenced in the glossary found in the appendix to assist with 
+your understanding with more detailed explanations.
+
+Cryptocurrencey is a term used to describe currencies that use Blockchain technology.
+Blockchain technology is secure record keeping of Assets of all the accounts 
+using the Blockchain.
+
+Ethereum is a decentralised Blockchain that has its own currency (Ether) and can
+create other Cryptocurrencies and Tokens. Ether, Cryptocurrencies and Tokens have 
+real world monetary value. These instructions will guide you in how to move
+my Ether, Cryptocurrencies and Tokens (Assets) off the Ethereum Blockchain to money in
+your bank account.
+
+Ether, Crytocurrencies and Tokens will be referenced as "Assets" for the remainder
+of this document.
+
+Ether and Ethereum based Assets are stored to an Address. Addresses consist
+of 42 lower case letters, upper case letters and numbers. As Ethereum is a public
+Blockchain anybody can see how much Ether and Assets the Address is holding. The Ether
+and Assets will stay in the Address until the Address owner authorises a Transaction to
+another Address. Authorisation is given through a Wallet that is associated with that
+Address. A Wallet is like a bank account, Wallet passwords and Seed Phrases should be
+kept private. The holders of the Wallets passwords/ Seed Phrases essentially own the
+Address and thus the Ether and Assets in that address. Wallets take different forms, from
+software on a computer, application on a phone, plugin on an internet browser, hardware
+and even contents on paper.
+
+The Ethereum Blockchain allows for applications to store and interact with data on it.
+As the Ethereum Blockchain is Decentralised these applications they are often referred to
+as Decentralised Applications (DApps.) Like applications on a mobile phone, Dapps can
+provide a variety of functions. Some Dapps are games that create new Assets as they are
+played, some DApps transfer Assets from one type to another, some DApps offer lending
+and borrowing of Ether or Assets. Beyond these basic examples there are many different 
+types of DApps that have many different functionalities. DApps can store Ether and Assets 
+from an Address but will require the authorisation of the associated Wallet. To remove 
+the Ether and Assets stored in the DApp back to the Address also requires the 
+authorisation of the associated Wallet.
+
+The movement of Ether or Assets from one address to another is called a Transaction.
+On the Ethereum Blockchain, Transactions require payments for them to be carried out.
+The price of the Transaction is dependent on how much Gas the transaction requires and 
+the current Gas Price. The amount of Gas the Transaction requires depends on the 
+complexity of the Transaction. The Gas Price changes depending on how many 
+Transactions the Ethereum network is currently requested to make. Transaction times 
+can take seconds, several minutes or even days. Generally, the higher the
+Gas Price you pay, the quicker the Transaction will take place. When you set up a
+Transaction through a Wallet you can choose what Gas Price you are willing to pay 
+for the Transaction. Wallets also offer default Gas Price options with indications
+of how long the Transaction will take at that point in time. Gas is paid in Ether, 
+it is normally represented in a smaller unit of Ether known as Gwei.
+1,000,000,000 Gwei is equal to 1 Ether, like how 100 Cents are in 1 Dollar. An Address
+will need Ethereum/ Gwei associated with it in order to carry out a Transaction.
+
+To summarise, my Ether and Assets are stored in Wallets and DApps on the Ethereum
+Blockchain. Ether and Assets have real world monetary value. In order to transfer 
+the Ether and Assets Transactions will need to be made and the Gas Price paid. 
+The instructions within this document will guide you on how to retrieve my Ether 
+and Assets and convert them to money that can be deposited into your bank account.
+
+-= Tips and Advice =-
+
+The internet browser I recommend using during this process is ______________
+
+It is advised that you use a new installation of the internet browser to prevent.
+
+When you need to enter information specific to me (passwords, Seed Phrases, Addresses)
+the instructions will guide you where to put the information with the following enter
+"XXXXXXX" with XXXXXXX being the information you need to enter in the described field.
+Do not type in the quotation marks (" ") you only need to enter the handwritten note
+that is underlined.
+
+This document is broken into sections represented as -= Section Name=- these may be
+referenced by different parts of the document by different DApps and Service.
+
+Take care of uppercase and lowercase letters as the information needs to be inputted
+exactly as I have written it.
+
+-= Data Input Example =-
+
+The instructions require you to enter my favourite colour into a text input field
+on a website.
+
+Note: The notation [ ] is representing the text input field in this example
+
+-------------------------
+Website Content
+
+What is my favourite colour?    [          ]
+-------------------------
+
+This guide will give you my answer which will be underlined as shown in the
+sentence below.
+
+My Favourite Colour: __Yellow__
+
+The document will instruct you where to put the answer as shown in the sentence below.
+
+In the "What is my favourite colour?"  text input field, enter "My Favourite Colour"
+You should then type the answer as directed. The example can be seen below.
+
+---------------------
+Website Content
+
+What is my favourite colour?    [Yellow]
+---------------------
+
+This ends the example.
+
+-= Warning =-
+
+Please follow these instructions very carefully, a single miss-click or typo could 
+lead to the assets being inaccessible. There will be notes within the document 
+of when to take extra care.
+
+Do not share or copy this document as it could lead to others accessing the assets.
+
+Scan your computer for malware, spyware and virus's using a trusted and reputable
+anti-virus software before beginning these tasks.
+
+Taxes may be required to be paid on the money generated from the retrieval of assets,
+please seek tax and legal advice from a reputable source.
+
+The content of this document was generated by Eth-ter-I-Die and has been reviewed by
+myself. By using this document, I have agreed that Eth-ter-I-Die and associated parties
+are not liable for any loss of Ether or Assets that may occur during this process.
+
+End of warning, end of introduction the retrieval instructions begin below.
+------------------------------------------------------------------------------------------

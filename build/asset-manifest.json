@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/eth-ter-i-die/static/css/main.e214a1e2.chunk.css",
-    "main.js": "/eth-ter-i-die/static/js/main.a492a88e.chunk.js",
-    "main.js.map": "/eth-ter-i-die/static/js/main.a492a88e.chunk.js.map",
-    "runtime-main.js": "/eth-ter-i-die/static/js/runtime-main.95ab4904.js",
-    "runtime-main.js.map": "/eth-ter-i-die/static/js/runtime-main.95ab4904.js.map",
-    "static/css/2.7ef9b196.chunk.css": "/eth-ter-i-die/static/css/2.7ef9b196.chunk.css",
-    "static/js/2.c7a134ee.chunk.js": "/eth-ter-i-die/static/js/2.c7a134ee.chunk.js",
-    "static/js/2.c7a134ee.chunk.js.map": "/eth-ter-i-die/static/js/2.c7a134ee.chunk.js.map",
-    "index.html": "/eth-ter-i-die/index.html",
-    "precache-manifest.d7bffa8ea8dd2a23a0f2f4bcfd308be4.js": "/eth-ter-i-die/precache-manifest.d7bffa8ea8dd2a23a0f2f4bcfd308be4.js",
-    "service-worker.js": "/eth-ter-i-die/service-worker.js",
-    "static/css/2.7ef9b196.chunk.css.map": "/eth-ter-i-die/static/css/2.7ef9b196.chunk.css.map",
-    "static/css/main.e214a1e2.chunk.css.map": "/eth-ter-i-die/static/css/main.e214a1e2.chunk.css.map",
-    "static/js/2.c7a134ee.chunk.js.LICENSE.txt": "/eth-ter-i-die/static/js/2.c7a134ee.chunk.js.LICENSE.txt"
+    "main.css": "/lu-calm.github.io/static/css/main.4b2b9bdc.chunk.css",
+    "main.js": "/lu-calm.github.io/static/js/main.308c6ec5.chunk.js",
+    "main.js.map": "/lu-calm.github.io/static/js/main.308c6ec5.chunk.js.map",
+    "runtime-main.js": "/lu-calm.github.io/static/js/runtime-main.e117f591.js",
+    "runtime-main.js.map": "/lu-calm.github.io/static/js/runtime-main.e117f591.js.map",
+    "static/css/2.9e2b3803.chunk.css": "/lu-calm.github.io/static/css/2.9e2b3803.chunk.css",
+    "static/js/2.c8a25467.chunk.js": "/lu-calm.github.io/static/js/2.c8a25467.chunk.js",
+    "static/js/2.c8a25467.chunk.js.map": "/lu-calm.github.io/static/js/2.c8a25467.chunk.js.map",
+    "index.html": "/lu-calm.github.io/index.html",
+    "precache-manifest.00af05f45556385a469fc7fd4bb24fb3.js": "/lu-calm.github.io/precache-manifest.00af05f45556385a469fc7fd4bb24fb3.js",
+    "service-worker.js": "/lu-calm.github.io/service-worker.js",
+    "static/css/2.9e2b3803.chunk.css.map": "/lu-calm.github.io/static/css/2.9e2b3803.chunk.css.map",
+    "static/css/main.4b2b9bdc.chunk.css.map": "/lu-calm.github.io/static/css/main.4b2b9bdc.chunk.css.map",
+    "static/js/2.c8a25467.chunk.js.LICENSE.txt": "/lu-calm.github.io/static/js/2.c8a25467.chunk.js.LICENSE.txt",
+    "static/media/logoxs.svg": "/lu-calm.github.io/static/media/logoxs.8faf6898.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.95ab4904.js",
-    "static/css/2.7ef9b196.chunk.css",
-    "static/js/2.c7a134ee.chunk.js",
-    "static/css/main.e214a1e2.chunk.css",
-    "static/js/main.a492a88e.chunk.js"
+    "static/js/runtime-main.e117f591.js",
+    "static/css/2.9e2b3803.chunk.css",
+    "static/js/2.c8a25467.chunk.js",
+    "static/css/main.4b2b9bdc.chunk.css",
+    "static/js/main.308c6ec5.chunk.js"
   ]
 }

@@ -15,7 +15,7 @@ class Home extends Component {
       <br />
       <EtIDDownload />
       <br />
-      <EtIDAdvSet/>
+      <EtIDAdvSet />
       </>
     );
   }

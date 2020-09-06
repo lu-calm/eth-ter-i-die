@@ -1,0 +1,92 @@
+------------------------------------------------------------------------------------------
+
+-= Service Name: Easy Staking =-
+-= Service Type: DApp or Service =-
+
+-= This information was updated and correct as of: 06/09/2020 =-
+
+-= Note: This section accesses my Wallet and guides on the removal of Assets
+Please follow the instructions carefully =-
+
+Easy Staking is a DApp that is allows users to deposit an Ethereum based Asset to in
+order to assist with providing a service in return the user earns more of that Ethereum
+based Asset. The Ethereum Asset being used in this DApp / service is known as STAKE.
+
+The aim of this section is to remove the Assets I have in Easy Staking and return them
+to the Wallet and Dapp Gateway.
+
+Within this section of the document we will cover the following topics.
+
+-= Connect to Easy Staking =-
+-= Remove STAKE from Easy Staking =-
+
+These may be referenced in other sections from other services in this document.
+These topics may not be conducted in order and may need to be conducted multiple times
+throughout this document.
+
+-= Connect to Easy Staking =-
+
+In your internet browser search/ address bar type: "easy-staking.xdaichain.com".
+
+Press Enter to access the website.
+
+Click "Connect" wallet in the centre of the page.
+
+Once clicked, click on the Wallet and DApp Gateway being used.
+
+A new screen will pop-up asking for permission for the website to interact with the
+Wallet and DApp Gateway.
+
+Select account with my Ethereum Address.
+
+Click Connect.
+
+If successful, the page will reload with details of how much STAKE I have staked with
+Easy Staking.
+
+-= Remove STAKE from Easy Staking =-
+
+Click on the "Easy Staking" text in the top left of the webpage.
+
+There will be table at the bottom of the page that has all of the stakes I currently
+have on Easy Staking.
+
+For each of the stakes you will need to follow the same process in order to remove
+the STAKE Ethereum based Assets from Easy Staking.
+
+Click on the "Details" text on one of the stakes.
+
+Navigate to the Instant Withdrawal element on the right hand side of the page.
+This will explain that you are requesting instant access to the staked assets rather
+than waiting for 12 hours with the Scheduled withdrawal. This does come at a cost with
+the percentage fee shown currently at 2%.
+
+Click the "2%" button.
+
+Click the "Max" text. In the Instant Withdrawal element on the right of the page.
+
+Click the "Withdraw" button.
+
+You need to Confirm the transaction with the Wallet and DApp Gateway. As the Wallet and
+DApp Gateway was connected previously another pop-up of the Wallet and DApp Gateway
+will appear on the screen.
+
+Click Confirm on the new Wallet and DApp Gateway pop-up.
+
+The Transaction will be submitted to withdraw the Asset and it now needs to be
+approved by the Ethereum Blockchain. Approval can take seconds, minutes, hours or days
+depending on how many Transactions globally are awaiting approval.
+
+The  Wallet and Dapp Gateway will give confirmation when the Transaction has
+been approved.
+
+If the Transaction is rejected try the above steps again.
+
+Once approved the STAKE Ethereum based Asset will now have been successfully
+transferred the connected Wallet and DApp Gateway.
+
+Repeat the above steps for each of the stakes in the table found when clicking on
+the "Easy Staking" text in the top left of the webpage.
+
+End of Easy Staking section.
+------------------------------------------------------------------------------------------

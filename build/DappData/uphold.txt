@@ -1,0 +1,206 @@
+------------------------------------------------------------------------------------------
+-= Service Name: Uphold =-
+-= Service Type: Off Ramp =-
+
+-= This information was updated and correct as of: 05/09/2020 =-
+
+-= Note: This section creates a method of transferring Ether and Assets to Fiat
+Currencies to a local currency. This is essentially your own Wallet and should be
+treated like a bank account, keeping access information as safe as possible =-
+
+Uphold is a digital asset exchange that brokers the transfer of Cryptocurrencies to
+Fiat Currencies and vice versa.
+
+Uphold can be referred as an "Off Ramp" as you can use Uphold to transfer the value
+of Ether off the Ethereum Blockchain and into Fiat Currency. We will be using it for
+this purpose.
+
+Within this section of the document we will cover the following topics.
+
+-= Account Set-up Process =-
+-= Your Wallets =-
+-= Transfer from Ether to Local Currency =-
+
+These may be referenced in other sections from other services in this document.
+These topics may not be conducted in order and may need to be conducted multiple times
+throughout this document.
+
+-= Account Set-up Process =-
+
+In order to transfer the value of my Ethereum based Assets to money you can send to your
+bank account, you will need to create an account with Uphold.
+
+In your internet browser search/ address bar type: "uphold.com"
+
+Press Enter to access the website
+
+From here you will need to go through the process of creating an account.
+
+If you have issues with the account creation process, in your internet browser
+search/ address bar type "uphold.com/en/help/faq-support". Once the site is accessed,
+use the search feature to help resolve your issue. Remember do not share any information
+in this documentation your support request.
+
+Click the "Sign up" button in the top right hand corner fill in your details including
+email address, password, location  and click the checkbox to agree to Upholds
+terms and conditions.
+
+Click "Next" to continue.
+
+Add in your full legal name, date of birth and other details required on this new page.
+This will need to the same information as you have on your Identification
+documents (passport or driving license) to prove who you are. Click the check box
+agreeing that you are supplying correct details.
+
+Click "Next" to continue.
+
+An email will be sent to your email address. You need to click the verification link
+in that email to move to the next step.
+
+On validation of the email address, you account is created. However in order to get
+the transfer the Ethereum Assets to your bank account further validation is required.
+
+Click on the "Verify your identity link" on your account dashboard page.
+
+Enter your address details and click "Next" when complete.
+
+Next you need to upload a photo of your ID and a "selfie" picture. You can do this
+via the phone application or through a web cam. Follow the process and steps that
+suit you best.
+
+Once submitted it may take a few days for verification.
+
+Now we need to set up the bank account you will want the funds to be transferred to.
+
+Click your name in the top right hand corner of the webpage.
+
+Go to the "Settings" option.
+
+Click "Funding Methods" in the top right area of the webpage.
+
+Click "Add Bank Account"
+
+Go through required process of adding your bank account details to Uphold.
+
+Once the bank account has been added and the identity verification process has been
+completed you are ready to move onto the next section of the process.
+
+
+-= Your Wallets =-
+
+Your Ethereum Address provided by Uphold can be found by going to the "Dashboard"
+section by clicking the Uphold logo in the top left of the screen.
+
+On the top right of the webpage there are option for "Overview", "Cards" and "Activity".
+
+Click on the "Cards" option.
+
+In the top right of the newly loaded section of the webpage and below the previously
+clicked "Cards" option there is an option to "Add card/currency".
+
+Click "Add card/currency".
+
+Name the card "Ether" and type "Ether" into the currency text input field. Click on
+the "Ether ETH" option.
+
+Click "Create".
+
+On the newly loaded page click "Fund with cryptocurrency or utility token".
+
+Scroll down to find the list named "Choose a cryptocurrency to send funds from".
+
+Click the option for "Ether".
+
+Click "Generate Address."
+
+This address is where we will be sending my Ether in the future.
+
+Do not write the Address down to use as there may be a possibility of mistyping the
+Address out.
+
+When you need to enter in your Ethereum Address to receive Ether, I recommend navigating
+to this page and copying the Address code by pressing the icon as described above.
+Then paste your Address in the appropriate field.
+
+-= Transfer from Ether to Local Currency =-
+Note: This section of the document should only be done once all previous sections of the
+whole document have been completed.
+
+Note: The wording "Local Currency" represents the currency you to bank with, substitute
+this wording with the name of the currency you use.
+
+Uphold allows you to convert Ether to your "Local currency". You will only be able to
+do this when you have Ether in your Ethereum Address, therefore this should only be done
+once all the Ether transfers have been done from my Address to Your Address which
+should be at the end of this document. You may need to come back to this section of
+the document at a later point once all the Transactions have been completed
+from My Address.
+
+To transfer the Ether, start by clicking the Uphold logo on the to left of the web-page
+in order to get back to your Dashboard.
+
+On the top right of the webpage there are option for "Overview", "Cards" and "Activity".
+
+Click on the "Cards" option.
+
+Check if there is a "Card" that represents your local currency.
+
+If there is bypass the next 6 instruction points. If there is not, follow
+the instructions.
+
+Click "Add card/currency".
+
+Name the card "Local currency" and type your local currency name into the currency text
+input field. Click on the correct local currency option.
+
+Click "Create".
+
+Click the Uphold logo on the to left of the web-page in order to get back to
+your Dashboard.
+
+On the top right of the webpage there are option for "Overview", "Cards" and "Activity".
+
+Click on the "Cards" option.
+
+Now you should see a "Card" with your local currency.
+
+Locate and click he "Card" you created previously for the Ether.
+
+Click the option to "send to Uphold card".
+
+In the "Transfer to Card" section select your local currency "Card".
+
+Click the checkbox to "use all available funds from this card".
+
+Click the "Confirm" button.
+
+Please note: Uphold will charge a fee for this process.
+
+Click the Uphold logo on the to left of the web-page in order to get back to
+your Dashboard.
+
+On the top right of the webpage there are option for "Overview", "Cards" and "Activity".
+
+Click on the "Cards" option.
+
+Click the card for your local currency.
+
+Click the option to "send to Bank Account".
+
+Select the bank account you set up previously.
+
+Type in the amount of funds from this wallet you wish to send to the bank account.
+
+Click the "Confirm" button.
+
+ Please note: Uphold will charge a fee for this process.
+
+It may take a few days for the funds to be received into your bank account.
+
+If you have issues with the Ether withdrawal process, in your internet browser
+search/ address bar type "uphold.com/en/help/faq-support". Once the site is accessed,
+use the search feature to help resolve your issue. Remember do not share any
+information in this documentation your support request.
+
+End of Uphold section.
+------------------------------------------------------------------------------------------

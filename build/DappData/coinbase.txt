@@ -1,0 +1,208 @@
+------------------------------------------------------------------------------------------
+-= Service Name: Coinbase =-
+-= Service Type: Off Ramp =-
+
+-= This information was updated and correct as of: 15/08/2020 =-
+
+-= Note: This section creates a method of transferring Ether and Assets to Fiat
+Currencies to a local currency. This is essentially your own Wallet and should be 
+treated like a bank account, keeping access information as safe as possible =-
+
+Coinbase is a digital asset exchange that brokers the transfer of Cryptocurrencies to
+Fiat Currencies and vice versa.
+
+Coinbase can be referred as an "Off Ramp" as you can use Coinbase to transfer the value
+of Ether off the Ethereum Blockchain and into Fiat Currency. We will be using it for
+this purpose.
+
+Within this section of the document we will cover the following topics.
+
+-= Account Set-up Process =-
+-= Your Wallets =-
+-= Transfer from Ether to Local Currency =-
+
+These may be referenced in other sections from other services in this document.
+These topics may not be conducted in order and may need to be conducted multiple times
+throughout this document.
+
+-= Account Set-up Process =-
+
+In order to transfer the value of my Ethereum based Assets to money you can send to your
+bank account, you will need to create an account with Coinbase.
+
+In your internet browser search/ address bar type: "coinbase.com"
+
+Press Enter to access the website
+
+From here you will need to go through the process of creating an account.
+
+If you have issues with the account creation process, in your internet browser
+search/ address bar type "help.coinbase.com". Once the site is accessed, use the search
+feature to help resolve your issue. Remember do not share any information in this 
+documentation your support request.
+
+Click the "Get Started" button and fill in your details including name, address, 
+password and click the checkbox to agree to Coinbase's terms and conditions once happy 
+to continue.
+
+You will be sent a verification email to the email address you supplied. Follow the link
+supplied in the email from Coinbase.
+
+As an additional security requirement Coinbase will direct you to set up two-step
+verification. Two-step verification requires a valid cell/ mobile phone number. Once you
+have submitted your phone number, a code will be sent to your cell/ mobile phone to type
+into Coinbase. Each time you log-in to Coinbase account you will need you phone as the
+log-in process requires a code that will be sent to your phone. In addition to log-ins,
+the two step verification will be used when you transfer funds from your account.
+
+You will then be directed to submit your Personal Identifying Information, for example
+where you live.
+
+In order to transfer Ethereum to your local currency then to your own bank account a few
+more steps are required. The verification process for these steps may take a few days.
+
+First a payment method needs to be given, this is your bank account where my Ether and
+Assets, once converted to local currency, will be sent.
+
+Click the silhouette profile icon on the top right of the webpage and click on the
+Settings link.
+
+This will give you all the details about your account. Navigate to "Payment methods" and
+click the "Add a payment method" option. Choose the correct Bank Account option for
+yourself and follow the onscreen instructions to complete the Bank account set-up.
+
+For the transferring, converting and depositing of Cryptocurrencies to Fiat currencies
+additional verification is required.
+
+In the Settings area, visited previously, navigate to "Account limits." You will be asked
+to provide photo ID (uploading a colour image of passport or driving license) and provide
+a "selfie" photo. Follow the instructions on screen and await verification confirmation,
+this could take a few days.
+
+You will also need to add additional verification by supplying Coinbase with proof of the
+Personal Identifying Information you had previously submitted. Follow the instructions on
+screen and await confirmation, this could take a few days.
+
+Once all the verification is confirmed you should have all the access required in order
+to continue with the next section.
+
+-= Your Wallets =-
+
+My Ether, in my Address needs to be sent from my Address to your Ethereum Address in
+Coinbase for you to then convert it to your local currency. The conversion from Ether to
+local currency will take place in Coinbase. Future sections of this document will guide
+you on how to send Ether and convert Assets to Ether.
+
+in this section we will identify:
+- Your Coinbase Ethereum Address which my Ether will be sent to
+- Your local currency wallet on Coinbase that will convert the Ether to local currency
+- How to deposit that money into your bank account.
+
+-=Your Ethereum Address=-
+
+Your Ethereum Address provided by Coinbase can be found by clicking the "Portfolio" link
+on the top left of the Coinbase webpage.
+
+Scroll down the page and it will display a section called "Your assets". There will be a
+lot of options available, however we are only interested in the "Ethereum" option.
+
+Click "Ethereum".
+
+This will lead you to a page with Ethereum Eth as a headline. If this is not correct you
+may have selected another cryptocurrency, click the "Portfolio" link again and navigate
+and find "Ethereum" in the "Your assets" list. On this page it will display your current
+Ether balance, this will be 0 for now. On the right hand of the page there is an option
+that says "Receive".
+
+Click the "Receive" text.
+
+Underneath the Square QR Code on the right-hand side of the page
+(you may need to scroll down) there will be text labelled "Address". The code to the
+right of the Address text is Your Ethereum Address.
+
+You may not be able to view the whole address on your screen however if you press the
+icon (of two squares) next to the Ethereum Address your full Ethereum Address will be
+copied for you to paste wherever needed.
+
+This address is where we will be sending my Ether in the future.
+
+Do not write the Address down to use as there may be a possibility of mistyping the
+Address out.
+
+When you need to enter in your Ethereum Address to receive Ether, I recommend navigating 
+to this page and copying the Address code by pressing the icon as described above. 
+Then paste your Address in the appropriate field.
+
+-=Transfer from Ether to Local Currency=-
+
+Note: This section of the document should only be done once all previous sections of the
+whole document have been completed.
+
+Note: The wording "Local Currency" represents the currency you to bank with, substitute
+this wording with the name of the currency you use.
+
+Coinbase allows you to convert Ether to your "Local currency". You will only be able to
+do this when you have Ether in your Ethereum Address, therefore this should only be done
+once all the Ether transfers have been done from my Address to Your Address. You may 
+need to come back to this section of the document at a later point once all the 
+Transactions have been completed from My Address.
+
+To transfer the Ether, start by clicking the portfolio link on the top left of the
+Coinbase webpage.
+
+Scroll down the page and it will display a section called "Your assets". There will be a
+lot of options available, however we are only interested in the "Ethereum" option.
+
+Click "Ethereum".
+
+This will lead you to a page with Ethereum Eth as a headline. If this is not correct you
+may have selected another cryptocurrency, click the "Portfolio" link again and navigate
+and find "Ethereum" in the "Your assets" list.
+
+Click the "Trade" button on the top right of the page.
+
+This will open a pop-up.
+
+Click the "Sell" text.
+
+Click "Sell All".
+
+Click "Sell Ethereum".
+
+Accept the trade confirmation.
+
+This will convert the Ether into your local currency and deposit it in your local
+currency wallet in Coinbase.
+
+Please note: Coinbase will charge a fee for this process.
+
+Now we need to withdraw this local currency from your Coinbase local currency wallet to
+your bank account.
+
+Start by clicking the portfolio link on the top left of the Coinbase webpage.
+
+Scroll down the page and it will display a section called "Your assets". There will be a
+lot of options available, however we are only interested in the "Local currency" option.
+
+Click your "Local currency" in the "Your assets" section of the webpage.
+
+After the successful trade of Ether to your "Local currency" the "Balance" should be
+updated to the value you sold the Ether to minus the Coinbase's fees.
+
+Click on the "Withdraw" text on the right of the screen.
+
+Select the bank account you want to withdraw to and enter the amount to withdraw.
+
+Click "Confirm" to agree to the withdrawal.
+
+Please note Coinbase will charge a fee for this process.
+
+It may take a few days for the funds to be received into your bank account.
+
+If you have issues with the Ether withdrawal process, in your internet browser
+search/ address bar type "help.coinbase.com". Once the site is accessed, use the search
+feature to help resolve your issue. Remember do not share any information in this
+document in your support request.
+
+End of Coinbase section.
+------------------------------------------------------------------------------------------

@@ -13,7 +13,7 @@ const { SearchBar, ClearSearchButton } = Search;
 const linkFormatterA = (cell, row, rowIndex) => {
   return (
     <a href={cell} target="_blank" rel="noopener noreferrer">
-      DApp Website Link
+      Website/ DApp Link
     </a>
   );
 };
@@ -30,32 +30,81 @@ const linkFormatterB = (cell, row, rowIndex) => {
 const products = [
       {
         id: 1,
-        'name': 'MetaMask',
-        'category': 'Wallet',
-        dapplink: 'https://metamask.io/',
-        flink:'/DappData/metamask.txt'
+        'name': 'Etherscan',
+        'category': 'Blockchain Explorers',
+        dapplink: 'https://etherscan.io/',
+        flink:'/DappData/etherscan.txt'
 
       },
       {
         id: 2,
-        'name': 'CoinBase',
-        'category': 'Off Ramp',
-        dapplink: 'https://metamask.io/',
-        flink : '/DappData/metamask.txt'
+        'name': 'Coinbase',
+        'category': 'On Ramps/ Off Ramps',
+        dapplink: 'https://www.coinbase.com/',
+        flink : '/DappData/coinbase.txt'
       },
       {
         id: 3,
-        'name': 'Uniswap',
-        'category': 'Exchange',
+        'name': 'Metamask',
+        'category': 'Wallet and DApp Gateways',
         dapplink: 'https://metamask.io/',
         flink : '/DappData/metamask.txt'
       },
       {
         id: 4,
-        'name': 'Ledger',
-        'category': 'Wallet',
-        dapplink: 'https://shop.ledger.com/',
-        flink : '/DappData/ledger.txt'
+        'name': 'Introduction Text',
+        'category': 'Intro',
+        dapplink: 'https://eth-ter-i-die.rip/',
+        flink : '/BaseData/intro.txt'
+      },
+      {
+        id: 5,
+        'name': 'End Text',
+        'category': 'End',
+        dapplink: 'https://eth-ter-i-die.rip/',
+        flink : '/BaseData/end.txt'
+      },
+      {
+        id: 6,
+        'name': 'Uniswap',
+        'category': 'Exchanges',
+        dapplink: 'https://uniswap.org/',
+        flink : '/DappData/uniswap.txt'
+      },
+      {
+        id: 7,
+        'name': 'Compound',
+        'category': 'DApps and Services',
+        dapplink: 'https://compound.finance/',
+        flink : '/DappData/compound.txt'
+      },
+      {
+        id: 8,
+        'name': 'EthVM',
+        'category': 'Blockchain Explorers',
+        dapplink: 'https://www.ethvm.com/',
+        flink : '/DappData/ethvm.txt'
+      },
+      {
+        id: 9,
+        'name': 'PoolTogether',
+        'category': 'DApps and Services',
+        dapplink: 'https://www.pooltogether.com/',
+        flink : '/DappData/pooltogether.txt'
+      },
+      {
+        id: 10,
+        'name': 'Uphold',
+        'category': 'On Ramps/ Off Ramps',
+        dapplink: 'https://www.uphold.com/',
+        flink : '/DappData/uphold.txt'
+      },
+      {
+        id: 11,
+        'name': 'Easy Staking',
+        'category': 'DApps and Services',
+        dapplink: 'https://easy-staking.xdaichain.com/',
+        flink : '/DappData/easystaking.txt'
       },
     ]
 
@@ -73,7 +122,7 @@ const products = [
        sort: true
     }, {
     dataField: 'dapplink',
-    text: "Dapp Link",
+    text: 'Website/ DApp Link',
     formatter: linkFormatterA
   },  {
     dataField: "flink",

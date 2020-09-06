@@ -1,0 +1,99 @@
+------------------------------------------------------------------------------------------
+-= Service Name: Compound =-
+-= Service Type: DApp or Service =-
+
+-= This information was updated and correct as of: 30/08/2020 =-
+
+-= Note: This section accesses my Wallet and guides on the removal of Assets
+Please follow the instructions carefully =-
+
+Compound is a DApp that allows its users to lend or borrow Assets. If a user lends Assets
+they earn interest on that Asset. If a user want to borrow Assets they need to offer
+collateral in the form of Assets order to do so.
+
+The aim of this section is to remove the assets I have lent through Compound and return
+them to the Wallet and Dapp Gateway.
+
+Within this section of the document we will cover the following topics.
+
+-= Connect to Compound =-
+-= Withdraw Assets from being Lent =-
+
+These may be referenced in other sections from other services in this document.
+These topics may not be conducted in order and may need to be conducted multiple times
+throughout this document.
+
+-= Connect to Compound =-
+
+In your internet browser search/ address bar type: "compound.finance".
+
+Press Enter to access the website.
+
+Click "App" in the top right corner.
+
+Once clicked the Wallet and DApp Gateway may automatically cause a new screen to pop-up.
+If this does not occur you will need to manually select the Wallet and DApp Gateway
+that has been previously  set-up in this document.
+
+A new screen will pop-up asking for permission for the website to interact with the
+Wallet and Dapp Gateway.
+
+Select account with my Ethereum Address.
+
+Click Connect.
+
+If successful, the page will reload and the top and centre of the webpage will
+say "Dashboard" and "vote". 
+
+-= Withdraw Assets from being Lent =-
+
+Scrolling down further on the webpage there will be a number a sections of the webpage.
+On the left hand  there is one section with the title "Supply".  There are Assets listed 
+in the "Supply" section that have a column named "Balance" which displays the value I 
+have stored with Compound. There is another column named "Collateral" with a toggle 
+switch displayed for each Asset. The Assets within this "Supply" section with the toggle 
+switch to the left and greyed out are the Assets that you will be removing and sending
+to the Wallet and DApp Gateway.
+
+Note: Be careful not to be confused with the section below the "Supply" section labelled 
+as "All Markets" with one of the columns labelled as "Wallet" instead of "Balance".
+I do not have Assets in that section within Compound.
+
+The process for removal is the same for each Asset in Compound, please follow the below
+steps for each Asset listed
+
+Click the Asset in the "Supply" section.
+
+An in screen pop-up will appear with the name of the selected  Asset as a title.
+
+Click the "Withdraw" text located at next to the "Supply" text in the top third of the 
+pop-up. The "Withdraw" text should be highlighted in screen when clicked.
+
+Click "Max" located just above the "Withdraw text". 
+
+Scroll down to the bottom of the pop-up and click "Withdraw".
+
+A new pop-up will be on the screen with the title "Confirm Transaction". 
+
+ You need to Confirm the transaction with the Wallet and DApp Gateway. As the Wallet and
+ DApp Gateway was connected previously another pop-up of the Wallet and DApp Gateway
+ will appear on the screen.
+
+Click Confirm on the new Wallet and DApp Gateway pop-up.
+
+The Transaction will be submitted to withdraw the Asset and it now needs to be
+approved by the Ethereum Blockchain. Approval can take seconds, minutes, hours or days
+depending on how many Transactions globally are awaiting approval.
+
+The  Wallet and Dapp Gateway will give confirmation when the Transaction has
+been approved.
+
+If the Transaction is rejected try the above steps again.
+
+Once approved the Asset will now have been successfully transferred the connected
+Wallet and DApp Gateway.
+
+Repeat this process for the remaining Assets in the "Supply" section.
+
+This is the end of the Compound section.
+------------------------------------------------------------------------------------------

@@ -1,0 +1,135 @@
+------------------------------------------------------------------------------------------
+-= Service Name: Uniswap =-
+-= Service Type: Token Exchange =-
+
+-= This information was updated and correct as of: 30/08/2020 =-
+
+-= Note: This section accesses my Wallet and guides on the removal of Ether and Assets
+Please follow the instructions carefully =-
+
+Uniswap is a DApp with its main purpose being a Token exchange. Uniswap allows the
+transfer of one type of Ethereum based Token to another type Ethereum based Token.
+Within this section of the document we will cover the following topics.
+
+-= Connect to Uniswap =-
+-= Transfer Tokens to Ether =-
+-= Tokens to Transfer =-
+
+These may be referenced in other sections from other services in this document.
+These topics may not be conducted in order and may need to be conducted multiple times
+throughout this document.
+
+-=Connect to Uniswap =-
+
+In your internet browser search/ address bar type: "uniswap.org".
+
+Press Enter to access the website.
+
+Click "Launch App".
+
+Click "Connect Wallet" in the top right hand corner.
+
+In the options select the Wallet identified in the Wallet and Dapp Gateway section of
+this document.
+
+A new screen will pop-up asking for login-in details for your Wallet and Dapp Gateway.
+
+Log-in to you Wallet and Dapp in the pop-up screen with your Wallet and Dapp
+Gateway password.
+
+Select account with my Ethereum Address.
+
+Click Connect.
+
+If successful, on the Uniswap page the "Connect Wallet" button will be replaced with
+my Ethereum Address.
+
+-= Transfer Tokens to Ether =-
+
+This section will allow for the transfer of a selection of Assets to Ether.
+
+Note: The list of Assets/ Tokens to go through this process will be identified in the
+next section, labelled = Tokens to Transfer =-. Within this section it will recommend
+what you need to type in the "Select Token" search box to identify the correct token.
+
+In the centre of the web-page there is a box with "Swap" highlighted at the top of it.
+There is a "From" and "To (estimated)" section in this box. The "From" section
+will be used to select the tokens that will be traded for Ether. By default "ETH" is
+in the "From" section.
+
+Click "ETH".
+
+This will open a box on the webpage with the title "Select Token".
+
+Use the text search box to find the Tokens identified in the
+-= Tokens to Transfer =- section.
+
+Type the "Recommended Search Text" for each Token to find the correct Token.
+The Token will appear in it's shortened name, for example Ethereum goes to ETH.
+
+Click the shortened form of the Token name.
+
+This will bring you back to the web-page with the centred box with "Swap" highlighted.
+
+The Token you selected will now be identified in the "From" section.
+
+Click the button labelled "Max". This will make sure all the Tokens of that type of Token
+ I own are traded to Ether.
+
+In the "To (estimated) section click the "Select Token" button.
+
+Search "Ether" in the "Search Token" box that appears.
+
+Click on the Token labelled "ETH".
+
+The "Search Token" box will close and you will be brought back to the web-page with the
+centred box with "Swap" highlighted.
+
+There will now be an estimation of how much Ether the identified Token will swap for.
+This may not be exactly the amount that will be sent to the Wallet and Dapp Gateway.
+
+Click "Swap".
+
+Click "Confirm Swap".
+
+A new screen will pop-up asking for the Wallet and Dapp Gateway to confirm
+the Transaction.
+
+Click "Confirm".
+
+The Transaction will be submitted for the transfer of the Token and it now needs to be
+approved by the Ethereum Blockchain. Approval can take seconds, minutes, hours or days
+depending on how many Transactions are awaiting approval.
+
+The  Wallet and Dapp Gateway will give confirmation when the Transaction has
+been approved.
+
+If the Transaction is rejected try the above steps again.
+
+Once approved the Token will now have been successfully transferred to Ether.
+
+-= Tokens to Transfer =-
+
+!!! NOTE FOR AUTHOR: Copy and complete the token template seen below as many times as
+required for the Tokens to be traded to Ether using Uniswap. Complete the template and
+delete this NOTE FOR AUTHOR and any unused Token templates. END OF NOTE FOR AUTHOR !!!
+
+Use the process identified in the -= Transfer Tokens to Ether =- section for each
+of the Tokens listed below. Doing one Token at a time.
+
+Use the "Recommended Search Text" in the text field when searching for the Token.
+
+Check you have selected the correct token by checking it has the same shortened name
+as I have identified.
+
+Repeat the process for each Token below.
+------------------------------------------
+Token Name:
+Recommended Search Text:
+Shortened  Name:
+------------------------------------------
+
+There are no more tokens to add.
+
+This is the end of the Uniswap section.
+------------------------------------------------------------------------------------------
